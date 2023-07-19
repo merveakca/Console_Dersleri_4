@@ -1,0 +1,53 @@
+﻿string cumle;
+            //cumle = "Merhaba \ndünya \nnasılsınız?";
+            //cumle = "Merhaba dünya nasılsınız?";
+            //cumle = "Merhaba DÜNYA NASILsınız?";
+            //Console.Write(cumle.ToUpper());
+            //Console.Write(cumle.ToLower());
+            //cumle = "Bugün C# dersleri devam ediyor";
+            //Console.WriteLine(cumle.StartsWith("Bu"));
+            //Console.WriteLine(cumle.EndsWith("yor"));
+            //cumle = "merhaba nasılsınız?";
+            //Console.WriteLine(cumle.IndexOf("nasıl"));
+            //Console.WriteLine(cumle.IndexOf("ba"));
+            //Console.WriteLine(cumle.IndexOf("a",5,8));
+            //cumle = "Merhaba dünyalılar";
+            //Console.WriteLine(cumle.Insert(4, "selam"));
+
+            //cumle = "Merhaba nasılsınız?";
+            //Console.WriteLine(cumle.Remove(4, 8));
+
+            //cumle = "Merhaba nasılsınız?";
+            //Console.WriteLine(cumle.Substring(9,3));
+
+            //ali çınar
+            //mehmet yıldız
+            //ayşe kayalı
+
+            /*
+            A.Çınar
+            M.Yıldız
+            A.Kayalı
+             */
+
+            //cumle = "Merhaba dünyalı dostlar";
+            //Console.WriteLine(cumle.Replace("ü", "u"));
+            //double sayi=14.25;
+
+            //kur bilgileri çekme
+            //dolar-->18,60
+            //euro-->19,50
+            //TCMB.GOV
+
+            //dolarKur*100;
+            //replace("," , ".");
+            //15.52*100
+
+            //cumle = "  Merhaba nasılsın?    ";
+            //Console.Write(cumle.Trim());
+
+            //char -->char(10)  "ali        "    --> "ali"
+            //char -->char(10)  "mehmet        " --> "mehmet"
+
+            //cumle = "Merhaba nasılsınız dostlarım?";
+            //Console.WriteLine(cumle.Length);

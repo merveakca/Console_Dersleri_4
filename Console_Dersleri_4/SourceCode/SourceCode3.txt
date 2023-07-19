@@ -1,0 +1,27 @@
+﻿//int sayi1;
+            //sayi1 = -458;
+            //Console.Write(Math.Abs(sayi1));
+
+            //double sayi1, sayi2;
+            //sayi1 = 25;
+            //sayi2 = 85;
+            //Console.WriteLine("minimum sayı: " + Math.Min(sayi1,sayi2));
+            //Console.WriteLine("maksimum sayı: " + Math.Max(sayi1, sayi2));
+
+            //double sayi = 8;
+            //Console.WriteLine(Math.Pow(sayi,3));
+
+            //int sayi = 144;
+            //Console.WriteLine(Math.Sqrt(sayi));
+
+            //double sayi = 47.85;
+            //25 26 29
+            //26.66 --> 27, 26 ya yuvarlayabilir
+            //Console.WriteLine(Math.Floor(sayi));
+            //Console.WriteLine(Math.Ceiling(sayi));
+
+            //double sayi = 42.36;
+            //Console.WriteLine(Math.PI * 2);
+            
+            //Console.WriteLine(Math.Round(sayi));
+            //ürün satışı --> 84.78 --> 85 yukarı yuvarladı

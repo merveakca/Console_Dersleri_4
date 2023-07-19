@@ -1,0 +1,43 @@
+﻿//Random Sınıfı
+            //Random nesne_adi=new Random();
+            //nesne_adi...
+
+            //formülizasyon
+
+            //Random rnd = new Random();
+            //int sayi = rnd.Next();
+            //int sayi2 = rnd.Next(99);
+            //int sayi3 = rnd.Next(1, 5);
+            //Console.WriteLine(sayi);
+            //Console.WriteLine(sayi2);
+            //Console.WriteLine(sayi3);
+
+            //Metin Belgesi
+            //‪C:\Users\Akca\Desktop\Deneme.txt
+            //string filePath;
+            //filePath = "‪C:\\Users\\Akca\\Desktop\\Deneme.txt";
+            ////FileStream fileStream = new FileStream(filePath,FileMode.Create);
+            ////Console.WriteLine("Metin belgesi oluşturuldu");
+            //FileStream fileStream = new FileStream(filePath, FileMode.OpenOrCreate, FileAccess.Write);
+            //StreamWriter streamWriter = new StreamWriter(fileStream);
+            //streamWriter.WriteLine("Burası 1.satır");
+            //streamWriter.WriteLine("Burası 2.satır");
+            //streamWriter.WriteLine("Burası 3.satır");
+
+            //streamWriter.Flush();
+            //streamWriter.Close();
+            //fileStream.Close();
+
+            //Console.WriteLine("Dosya yazdırma işlemi tamamlandı");
+
+            //FileStream fileStream = new FileStream(filePath, FileMode.Open, FileAccess.Read);
+            //StreamReader streamReader = new StreamReader(fileStream);
+            //string content = streamReader.ReadLine();
+            //while(content != null)
+            //{
+            //    Console.WriteLine(content);
+            //    content = streamReader.ReadLine();
+            //}
+
+            //streamReader.Close();
+            //fileStream.Close();
